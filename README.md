@@ -2,6 +2,7 @@
 **toastr** is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
 [![Build Status](https://travis-ci.org/CodeSeven/toastr.svg)](https://travis-ci.org/CodeSeven/toastr)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftoastr.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftoastr?ref=badge_shield)
 Browser testing provided by BrowserStack.
 
 ## Current Version
@@ -248,3 +249,6 @@ Copyright © 2012-2015
 
 ## License
 toastr is under MIT license - http://www.opensource.org/licenses/mit-license.php
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftoastr.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftoastr?ref=badge_large)
